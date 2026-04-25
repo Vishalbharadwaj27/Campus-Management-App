@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+# Dist output
+/dist/
+# Vite cache
+/.vite
+# TypeScript logs
+*.tsbuildinfo
+# IDE folders
+.vscode/
+.idea/
+# Logs
+npm-debug.log*
+# OS files
+.DS_Store
+Thumbs.db
